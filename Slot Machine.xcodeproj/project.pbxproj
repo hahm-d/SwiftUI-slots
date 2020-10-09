@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6553E8152530FC9700DB7272 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6553E8142530FC9700DB7272 /* CardView.swift */; };
 		65F11D7425301D9500314A4D /* Slot_MachineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F11D7325301D9500314A4D /* Slot_MachineApp.swift */; };
 		65F11D7625301D9500314A4D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65F11D7525301D9500314A4D /* ContentView.swift */; };
 		65F11D7825301D9800314A4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65F11D7725301D9800314A4D /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6553E8142530FC9700DB7272 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		65F11D7025301D9500314A4D /* Slot Machine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Slot Machine.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65F11D7325301D9500314A4D /* Slot_MachineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slot_MachineApp.swift; sourceTree = "<group>"; };
 		65F11D7525301D9500314A4D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				65F11D7325301D9500314A4D /* Slot_MachineApp.swift */,
 				65F11D7525301D9500314A4D /* ContentView.swift */,
+				6553E8142530FC9700DB7272 /* CardView.swift */,
 				65F11D7725301D9800314A4D /* Assets.xcassets */,
 				65F11D7C25301D9800314A4D /* Info.plist */,
 				65F11D7925301D9800314A4D /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65F11D7625301D9500314A4D /* ContentView.swift in Sources */,
+				6553E8152530FC9700DB7272 /* CardView.swift in Sources */,
 				65F11D7425301D9500314A4D /* Slot_MachineApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
